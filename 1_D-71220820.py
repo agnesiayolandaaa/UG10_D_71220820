@@ -1,0 +1,16 @@
+print ("Selamat Datang di Kalkulator Sederhana: ")
+print ("Ketik 1 untuk menghitung penjumlahan: ")
+print ("Ketik 2 untuk menghitung pengurangan: ")
+print ("Ketik 3 untuk menghitung perkalian: ")
+print ("Ketik 4 untuk menghitung pembagian: ")
+print ("Ketik 5 untuk menghitung sisa hasil bagi (modulus): ")
+print ("Ketik 6 untuk menghitung pemangkatan: ")
+angka  = input("Masukkan pilihan anda:")
+bilangan1 = input ("Masukan bilangan pertama: ")
+bilangan2 = input ("Masukkan bilangan kedua: ")
+
+penjumlahan = input ("Masukkan bilangan pertama + Masukkan bilangan kedua :")
+print ("Hasil dari 5 dijumlahkan dengan 3 adalah 8")
+
+pengurangan = input ("Masukkan bilangan pertama - Masukkan bilangan kedua :")
+print ("Hasil dari 7 dikurang dengan 8 adalah -1")
